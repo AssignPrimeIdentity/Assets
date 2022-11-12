@@ -1,3 +1,0 @@
-[submodule "primes"]
-	path = primes
-	url = https://github.com/eq19/lexer
